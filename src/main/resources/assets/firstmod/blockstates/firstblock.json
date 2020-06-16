@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north,powered=false": { "model": "firstmod:block/firstblock" },
+    "facing=south,powered=false": { "model": "firstmod:block/firstblock", "y": 180 },
+    "facing=west,powered=false": { "model": "firstmod:block/firstblock", "y": 270 },
+    "facing=east,powered=false": { "model": "firstmod:block/firstblock", "y": 90 },
+    "facing=up,powered=false": { "model": "firstmod:block/firstblock", "x": -90 },
+    "facing=down,powered=false": { "model": "firstmod:block/firstblock", "x": 90 },
+  }
+}
